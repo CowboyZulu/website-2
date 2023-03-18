@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel dolor quis urna convallis auctor vel at velit. Duis sit amet quam nec augue euismod interdum vel nec velit. Praesent sed sem eu tellus bibendum congue at et sapien.",
+            "image": "https://via.placeholder.com/500x300.png?text=Project+1",
+            "link": "https://www.example.com/project1"
+        },
+        {
+            "title": "Project 2",
+            "description": "Phasellus vestibulum pretium neque, in sodales mi eleifend a. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas quis malesuada odio. Nunc mattis purus ut mauris vestibulum, non consectetur eros sollicitudin.",
+            "image": "https://via.placeholder.com/500x300.png?text=Project+2",
+            "link": "https://www.example.com/project2"
+        },
+        {
+            "title": "Project 3",
+            "description": "Etiam nec enim sit amet nulla euismod bibendum. Sed ut libero vel nibh malesuada ultrices eget sit amet elit. Vivamus vitae elit ac felis congue iaculis. Curabitur porta felis eget tortor congue egestas. ",
+            "image": "https://via.placeholder.com/500x300.png?text=Project+3",
+            "link": "https://www.example.com/project3"
+        },
+        {
+            "title": "Project 4",
+            "description": "Proin a ultrices nunc, eget sagittis leo. In varius erat vel mauris posuere, eget ultrices libero bibendum. Praesent quis sapien odio. Cras luctus felis leo, quis consectetur mi blandit id. Duis consectetur magna a massa suscipit, ut elementum quam vulputate.",
+            "image": "https://via.placeholder.com/500x300.png?text=Project+4",
+            "link": "https://www.example.com/project4"
+        }
+    ]
+}
